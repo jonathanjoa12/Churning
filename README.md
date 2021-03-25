@@ -59,7 +59,6 @@ The types of models that were compared throughout the project include logistic r
 
 -	SVMS with AdaBoost: SVMs with AdaBoost produced a accuracy train score of .79 and a test score of .77. The F1 score is .58.
 
--	Neural Networks:
 
 
 
